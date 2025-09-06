@@ -24,7 +24,7 @@ const Index = () => {
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-50"
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-40"
           style={{ backgroundImage: `url(${heroImage})`, filter: "none" }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-background/10 via-background/30 to-background/70" />
