@@ -31,7 +31,7 @@ const Index = () => {
 
         <div className="relative z-10 text-center max-w-5xl mx-auto px-6 py-8">
           {/* Main Title with Enhanced Typography */}
-          <h1 className="text-6xl md:text-8xl lg:text-9xl font-extrabold text-foreground mb-4 tracking-tight monastery-transition">
+          <h1 className="text-5xl md:text-8xl lg:text-9xl font-extrabold text-foreground mb-4 tracking-tight monastery-transition">
             <span className="bg-gradient-to-r from-amber-600 via-orange-500 to-red-600 bg-clip-text text-transparent">
               Monastery
             </span>
