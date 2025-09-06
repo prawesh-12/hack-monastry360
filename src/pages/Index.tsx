@@ -268,7 +268,7 @@ const Index = () => {
             </Link>
             <span className="text-secondary-foreground/60">•</span>
             <span className="text-sm text-secondary-foreground/80">
-              (SIH - Hackthon Project)
+              (SIH - Hackathon Project)
             </span>
           </div>
         </div>
