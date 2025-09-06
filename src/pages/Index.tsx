@@ -268,7 +268,7 @@ const Index = () => {
             </Link>
             <span className="text-secondary-foreground/60">•</span>
             <span className="text-sm text-secondary-foreground/80">
-              Digital Heritage Initiative 2024
+              (SIH - Hackthon Project)
             </span>
           </div>
         </div>
